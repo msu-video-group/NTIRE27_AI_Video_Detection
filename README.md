@@ -48,3 +48,7 @@ The 2026 challenge benchmarked detection on **294,500 images** using **42 image 
 ## Get Ready to Participate
 
 **Bring your next video detection method to NTIRE 2027.** In the meantime, explore the 2026 challenge results for approaches to handling post-processing and unseen generators.
+
+## Contact Us
+
+For questions about the challenge, email us at [deepfake@videoprocessing.ai](mailto:deepfake@videoprocessing.ai).
