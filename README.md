@@ -1,6 +1,6 @@
 # NTIRE 2027 Challenge on Robust AI-Generated Video Detection in the Wild
 
-![NTIRE 2027 Video Detection Challenge](assets/teaser.png)
+<img src="assets/teaser.png" alt="NTIRE 2027 Video Detection Challenge" width="900">
 
 Can your detector spot an AI-generated video after it has been compressed, resized, and shared online?
 
